@@ -1,7 +1,7 @@
 Hi! My name is Nithin Chowdary Ravuri 
 ========================================================================================================================================
 
-🌍  I am a Full-Stack Developer based in San Antonio, Texas.
+🌍  I am a Full-Stack Developer based in Texas, USA.
 <br/>
 
 ### Skills
