@@ -5,9 +5,11 @@ Hi! My name is Nithin Chowdary Ravuri
 <span id="badges">
   My official portfolio
   <a href="https://nithin-chowdary-portfolio.netlify.app/">
-    Nithin.
+    Nithin😎
   </a>
 </span>
+<br/>
+I also have a lot of projects deployed using Netlify, all hosted links are attached in the corresponding Github repository.
 
 ### Skills
 
