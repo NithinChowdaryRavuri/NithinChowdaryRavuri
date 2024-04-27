@@ -1,15 +1,15 @@
 Hi! My name is Nithin Chowdary Ravuri 
 ========================================================================================================================================
 
-🌍  I am a Full-Stack Developer based in Texas, USA. 
-<span id="badges">
-  My official portfolio
-  <a href="https://nithin-chowdary-portfolio.netlify.app/" target="_blank">
-    Nithin😎
-  </a>
-</span>
-<br/>
-I also have a lot of projects deployed using Netlify, all hosted links are attached in the corresponding Github repository.
+---
+
+🚀 Welcome to my coding universe! I'm Nithin, a Full-Stack Developer hailing from the vibrant state of Texas, USA. 
+
+🎨 Dive into my world of innovation and creativity at my official portfolio: [Nithin](https://nithin-chowdary-portfolio.netlify.app/) ⚡️
+
+🔍 Curious about my projects? They're all deployed with the magic of Netlify! Find their hosted links conveniently nestled within their respective Github repositories.
+
+---
 
 ### Skills
 
