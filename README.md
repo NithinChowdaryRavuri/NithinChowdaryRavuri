@@ -23,3 +23,4 @@ Hi! My name is Nithin Chowdary Ravuri
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinChowdaryRavuri&layout=compact" alt="stats"/>
