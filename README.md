@@ -24,4 +24,4 @@ Hi! My name is Nithin Chowdary Ravuri
   </a>
 </div>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinChowdaryRavuri&layout=pie" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinChowdaryRavuri&layout=compact&hide_border=true&&langs_count=10&show_icons=true" alt="stats"/>
